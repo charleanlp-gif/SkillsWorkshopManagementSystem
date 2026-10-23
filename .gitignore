@@ -1,0 +1,36 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+*.class
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### SQLite databases ###
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+### Operating system files ###
+.DS_Store
+Thumbs.db
+desktop.ini
