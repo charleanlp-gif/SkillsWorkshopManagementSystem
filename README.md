@@ -162,3 +162,30 @@ The application assumes that:
 - the application has permission to create and access files in the project directory;
 - the SQLite database file is available to the application;
 - users select the appropriate menu option for the operation they want to perform.
+
+---
+
+## Assessment Results and Professional Development
+
+This project was developed as part of my Software Development Fundamentals (SODF102) assessment.
+
+**Final Assessment Result: 88.13% (141/160)**
+
+The assessment demonstrated my understanding of Java programming fundamentals, collections, file handling, input validation, relational databases and JDBC.
+
+Following the assessment, I reviewed the feedback and prepared a technical reflection identifying areas for improvement, their underlying causes and proposed solutions.
+
+The original assessed implementation has been preserved in this repository. The improvements described in my reflection are planned future developments and have not yet been implemented.
+
+### Supporting Documents
+
+- [Assessment Feedback — 88.13%](docs/SODF102_FA1_Feedback_Public.pdf)
+- [Software Development Reflection and Improvement Plan](docs/SOFTWARE_IMPROVEMENT_PLAN.md)
+
+### Key Learning Outcomes
+
+Through this project, I gained practical experience in integrating Java application components, managing relational data and testing software functionality.
+
+The assessment also highlighted opportunities to strengthen data consistency, error recovery, registration validation and integration testing.
+
+I intend to apply these lessons to future software development projects.
