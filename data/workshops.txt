@@ -1,0 +1,3 @@
+Q8W002,Data Integration Workshop,DATABASE,Priya Naidoo,2026-10-20,500.00,10,Active
+DBW101,Java Database Basics,PROGRAMMING,Naledi Mokoena,2026-10-15,450.00,20,Active
+DBW102,Network Security Essentials,CYBERSECURITY,Daniel Jacobs,2026-10-20,600.00,15,Active
